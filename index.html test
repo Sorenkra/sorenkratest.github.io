@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Parcoursup - Établissements</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link href="feuilledestyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Établissements</h1>
+  <p>Bienvenue sur notre site où vous pouvez suivre les dernières nouvelles sur le football, la Formule 1 et le tennis !</p>
+  
+  <h2>Football</h2>
+  <img src="https://images.unsplash.com/photo-1501594907351-27fd531c8a71?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5MnwwfDF8c2VhcmNofDJ8fGZvb3RibGxlfGVufDB8fHx8fDE2NTQzMTg0NjM&ixlib=rb-1.2.1&q=80&w=1080" alt="Football" style="width:100%;max-width:600px;">
+  <p>Les dernières actualités sur le football mondial...</p>
+  
+  <h2>Formule 1</h2>
+  <img src="https://images.unsplash.com/photo-1563144052-f2b7e65f79c5?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5MnwwfDF8c2VhcmNofDF8fGZvcm11bGF8ZW58MHx8fHx8&ixlib=rb-1.2.1&q=80&w=1080" alt="Formule 1" style="width:100%;max-width:600px;">
+  <p>Les dernières courses et classements de la Formule 1...</p>
+  
+  <h2>Tennis</h2>
+  <img src="https://images.unsplash.com/photo-1524170562010-40f29c15a0c7?crop=entropy&cs=tinysrgb&fit=max&ixid=MXwyMDg5MnwwfDF8c2VhcmNofDd8fHRlbm5pc3xlbnwwfHx8fDE2NTQzMTg5NTI&ixlib=rb-1.2.1&q=80&w=1080" alt="Tennis" style="width:100%;max-width:600px;">
+  <p>Les résultats et nouvelles du monde du tennis...</p>
+  
+  <nav>
+    <ul>
+      <li><a href="football.html">Football</a></li>
+      <li><a href="formula1.html">Formule 1</a></li>
+      <li><a href="tennis.html">Tennis</a></li>
+    </ul>
+  </nav>
+</body>
+
+</html>
